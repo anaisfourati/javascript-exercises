@@ -42,7 +42,7 @@ This is what the final function should look like:
 ```javascript
 const helloWorld = function() {
   return 'Hello, World!'
-}
+};
 
 module.exports = helloWorld
 ```
